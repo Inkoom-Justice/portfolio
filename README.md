@@ -45,7 +45,7 @@ disease modelling using Maple software for their final BSc thesis work.
 - **Bachelor of Science, Mathematics**, University of Mines and Technology, Ghana, Tarkwa | 2018
 
 ### PROJECTS
-#### Accenture North America Data Analytics and Visualization
+#### 1. Accenture North America Data Analytics and Visualization
 [![Data Visualization Dashboard](accenture111.png)](https://justiceinkoom55.wixsite.com/portfolio/post/accenture-north-america-data-analytics-and-visualization)
  * Completed a simulation focused on advising a hypothetical social media client
    as a Data Analyst at Accenture
@@ -53,3 +53,6 @@ disease modelling using Maple software for their final BSc thesis work.
    trends to inform strategic decisions
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
+
+#### 2. Tata Data Visualisation: Empowering Business with Effective Insights
+[![Data Visualization Dashboard]()()
