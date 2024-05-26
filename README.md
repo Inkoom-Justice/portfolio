@@ -43,3 +43,8 @@ disease modelling using Maple software for their final BSc thesis work.
 ### EDUCATION
 - **Master of Science, Nanotechnology**, Politechnika Gdańska, Poland, Gdansk | 2024
 - **Bachelor of Science, Mathematics**, University of Mines and Technology, Ghana, Tarkwa | 2018
+
+### PROJECTS
+#### Accenture North America Data Analytics and Visualization
+![Data Visualization Dashboard](https://justiceinkoom55.wixsite.com/portfolio/post/accenture-north-america-data-analytics-and-visualization)
+
