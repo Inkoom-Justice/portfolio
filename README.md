@@ -47,12 +47,20 @@ disease modelling using Maple software for their final BSc thesis work.
 ### PROJECTS
 #### 1. Accenture North America Data Analytics and Visualization
 [![Data Visualization Dashboard](accent.png)](https://justiceinkoom55.wixsite.com/portfolio/post/accenture-north-america-data-analytics-and-visualization)
- * Completed a simulation focused on advising a hypothetical social media client
-   as a Data Analyst at Accenture
- * Cleaned, modelled and analyzed 7 datasets to uncover insights into content
-   trends to inform strategic decisions
- * Prepared a PowerPoint deck and video presentation to communicate key insights
-   for the client and internal stakeholders
+ * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
+ * Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
+ * Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
 #### 2. Tata Data Visualisation: Empowering Business with Effective Insights
-[![Data Visualization Dashboard]()()
+[![Data Visualization Dashboard](tata.png)](https://justiceinkoom55.wixsite.com/portfolio/post/tata-data-visualisation-empowering-business-with-effective-insights)
+ * Completed a simulation involving creating data visualizations for Tata Consultancy Services
+ * Prepared questions for a meeting with client senior leadership
+ * Created visuals for data analysis to help executives with effective decision making
+    
+#### 3. British Airways Data Science
+[![Data Vis](british.png)](https://github.com/Inkoom-Justice/Data_in_challenges/blob/873e2e08e2dc05eac17fcea83c98738d2443d5ab/British%20Airways%20Project/README.md)
+ * Completed a simulation focussing on how data science is a critical component of British Airways success.
+ * Scraped and analysed customer review data to uncover findings.
+ * Built a predictive model to understand factors that influence buying behaviour.
+
+#### 4. 
