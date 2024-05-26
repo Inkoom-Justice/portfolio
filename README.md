@@ -46,7 +46,7 @@ disease modelling using Maple software for their final BSc thesis work.
 
 ### PROJECTS
 #### 1. Accenture North America Data Analytics and Visualization
-[![Data Visualization Dashboard](accenture111.png)](https://justiceinkoom55.wixsite.com/portfolio/post/accenture-north-america-data-analytics-and-visualization)
+[![Data Visualization Dashboard](accent.png)](https://justiceinkoom55.wixsite.com/portfolio/post/accenture-north-america-data-analytics-and-visualization)
  * Completed a simulation focused on advising a hypothetical social media client
    as a Data Analyst at Accenture
  * Cleaned, modelled and analyzed 7 datasets to uncover insights into content
