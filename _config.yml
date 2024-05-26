@@ -2,4 +2,5 @@ title: Justice Inkoom
 logo: img1.ico
 #description: text below image
 show_downloads: true
+paragraph_spacing: 1
 theme: jekyll-theme-minimal
