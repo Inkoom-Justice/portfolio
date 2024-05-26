@@ -3,5 +3,5 @@ logo: img1.ico
 #description: text below image
 email: justiceinkoom55@gmail.com
 show_downloads: true
-paragraph_spacing: 1
+paragraph_spacing: 5
 theme: jekyll-theme-minimal
