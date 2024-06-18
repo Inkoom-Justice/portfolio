@@ -17,6 +17,12 @@ machine learning and data analysis automation.
 - Outlook
 
 ### WORK EXPERIENCE
+#### Cognifyz Technologies  
+**Data Analyst Internship** (Mar. 2024 - Apr. 2024)  
+- Demonstrated proficiency in data cleaning, transformation, and exploratory analysis through Jupyter Notebook exercises with pandas, numpy, matplotlib and mitosheet python libraries.
+- Gained exposure to working with a comprehensive restaurant dataset, including analyzing and visualizing information about restaurant locations, cuisines, ratings, and other relevant attributes.
+- Developed a strong foundation in Python programming and its application to data-driven problem-solving.  
+
 #### Frankis Multimedia, Ghana, Tarkwa
 **Data Analyst** (2019 – 2022)
 - Led the collection and analysis of customer feedback data and identified key areas for service
@@ -42,6 +48,7 @@ disease modelling using Maple software for their final BSc thesis work.
 
 ### EDUCATION
 - **Master of Science, Nanotechnology**, Politechnika Gdańska, Poland, Gdansk | 2024
+- **Master of Science, Mathematical Engineering**, University of L'Aquila, Italy, L'Aquila | 2024
 - **Bachelor of Science, Mathematics**, University of Mines and Technology, Ghana, Tarkwa | 2018
 
 ### PROJECTS
