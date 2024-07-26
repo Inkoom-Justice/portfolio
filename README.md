@@ -52,6 +52,12 @@ disease modelling using Maple software for their final BSc thesis work.
 - **Bachelor of Science, Mathematics**, University of Mines and Technology, Ghana, Tarkwa | 2018
 
 ### PROJECTS
+#### 1. Natural Gas Price Prediction Using Machine Learning
+
+* Demonstrated the application of machine learning techniques for time series forecasting in the energy sector.
+* Developed a robust prediction system for natural gas prices, showcasing abilities in handling time series data, applying machine learning algorithms, and optimizing models.
+
+
 #### 1. Accenture North America Data Analytics and Visualization
 [![Data Visualization Dashboard](accent.png)](https://justiceinkoom55.wixsite.com/portfolio/post/accenture-north-america-data-analytics-and-visualization)
  * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
