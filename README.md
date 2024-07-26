@@ -53,7 +53,7 @@ disease modelling using Maple software for their final BSc thesis work.
 
 ### PROJECTS
 #### 1. Natural Gas Price Prediction Using Machine Learning
-
+[![Data Visualization Dashboard](accent.png)](https://github.com/Inkoom-Justice/Data_in_challenges/blob/bc91737b2454451dae6efb93679d5370059e8a35/Natural%20Gas%20Price%20Prediction/README.md)
 * Demonstrated the application of machine learning techniques for time series forecasting in the energy sector.
 * Developed a robust prediction system for natural gas prices, showcasing abilities in handling time series data, applying machine learning algorithms, and optimizing models.
 
