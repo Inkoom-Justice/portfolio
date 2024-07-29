@@ -11,7 +11,7 @@ machine learning and data analysis automation.
 ### KEY SKILLS
 - Data Analysis
 - Data Visualization
-- Python, SQL, R, Excel
+- Python, SQL, R, Excel, MatLab, Linux
 - Power BI
 - Github
 - Outlook
